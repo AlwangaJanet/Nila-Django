@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+!*/
+serviceAccountKey.json
+
+*.pyc
+__pycache__
+
+*.log
+
+env_site/
+
+db.sqlite3
